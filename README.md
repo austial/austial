@@ -1,4 +1,4 @@
-# **Company Profile: Austial™ \- Agile Project Management and Team Collaboration Platform**
+# **Austial™ \- Agile Project Management and Team Collaboration Platform**
 
 ## **1\. Introduction**
 
